@@ -6,7 +6,7 @@ A JavaFX-based simulation and visualization project inspired by **Attack on Tita
 - **Titan & Weapon Data Management:** Reads and processes data from `titans.csv` and `weapons.csv`.
 - **JavaFX UI:** Interactive graphical interface displaying titans and their attributes.
 - **Image Rendering:** Uses PNG images for visualization.
-- **Simulation Mechanics:** (If applicable, describe any game-like features)
+
 
 ## Tech Stack
 - **Programming Language:** Java
@@ -31,9 +31,6 @@ git clone https://github.com/yourusername/AttackOnTitans-JavaFX.git
 ```bash
 java --module-path "path_to_javafx_libs" --add-modules javafx.controls,javafx.fxml -jar AttackOnTitans.jar
 ```
-
-## Screenshots (if applicable)
-_Add application screenshots_
 
 ## Future Enhancements
 - Implement titan animations.
